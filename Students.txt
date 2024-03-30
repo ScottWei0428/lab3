@@ -1,0 +1,10 @@
+S001|Alice|Smith|20|Female|Math101|
+S002|Bob|Johnson|21|Male|Eng101|
+S003|Emily|Brown|22|Female|Chem101|
+S004|Michael|Davis|23|Male|Hist101|
+S005|Olivia|Wilson|20|Female|Bio101|
+S006|Jacob|Martinez|21|Male|Phy101|
+S007|Sophia|Taylor|22|Female|Econ101|
+S008|Matthew|Anderson|23|Male|Psych101|
+S009|Emma|Garcia|20|Female|Art101|
+S010|William|Jones|21|Male|Soc101|
