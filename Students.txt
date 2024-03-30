@@ -1,0 +1,8 @@
+S003|aaa|Brown|22|Male|Hist101|C
+S004|Diana|asd|20|Female|Chem101|B+
+S005|Evan|Williams|66|Male|Phys101|A-
+S006|Fiona|Gallagher|19|Female|Bio101|B
+S008|Hannah|Montana|20|Female|Music101|A+
+S009|Ian|Somerhalder|21|Male|Drama101|B+
+S010|Julia|Roberts|22|Female|Art101|A-
+S011|Scott|Wei|146|Female|Art|B
